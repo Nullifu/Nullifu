@@ -1,10 +1,11 @@
-## Hi there! 👋 I'm Nullifu
+## Nullifu
 
-A passionate developer who loves building Discord bots with JavaScript and TypeScript. I've also done a bit of scripting in roblox.
+developer building Discord bots with JavaScript and TypeScript. I've also done a bit of scripting in roblox.
 
 **🛠️ Technologies:**
 
 * Lua
+* Python
 * TypeScript
 * JavaScript
 * Discord.js
