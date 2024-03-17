@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! 👋 I'm Nullifu
 
-<!--
-**Nullifu/Nullifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer who loves building Discord bots with JavaScript and TypeScript. I've also done a bit of scripting in roblox.
 
-Here are some ideas to get you started:
+**🛠️ Technologies:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Lua
+* TypeScript
+* JavaScript
+* Discord.js
+* Node.js 
+
+**👀 Check out my projects:**
+
+* **Jujutsu Kaisen Discord Bot:** [[link to repository](https://github.com/Nullifu/JJK-Discord-Bot)]
+
