@@ -12,5 +12,5 @@ A passionate developer who loves building Discord bots with JavaScript and TypeS
 
 **👀 Check out my projects:**
 
-* **Jujutsu Kaisen Discord Bot:** [](https://github.com/Nullifu/JJK-Discord-Bot)]
+* **Jujutsu Kaisen Discord Bot:** [Link](https://github.com/Nullifu/JJK-Discord-Bot)]
 
