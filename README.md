@@ -1,6 +1,6 @@
 ## Nullifu
 
-developer building Discord bots with JavaScript and TypeScript. I've also done a bit of scripting in roblox.
+Developer who specialises in building discord bots using both JavaScript and Typescript. I also have experience with scripting in Roblox.
 
 **🛠️ Technologies:**
 
