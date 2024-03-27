@@ -9,7 +9,8 @@ Developer who specialises in building discord bots using both JavaScript and Typ
 * TypeScript
 * JavaScript
 * Discord.js
-* Node.js 
+* Node.js
+* Docker
 
 **👀 Check out my projects:**
 
