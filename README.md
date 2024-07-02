@@ -11,8 +11,3 @@ Developer who specialises in building discord bots using both JavaScript and Typ
 * Discord.js
 * Node.js
 * Docker
-
-**👀 Check out my projects:**
-
-* **Jujutsu Kaisen Discord Bot:** [Link](https://github.com/Nullifu/JJK-Discord-Bot)
-
