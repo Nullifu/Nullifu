@@ -1,13 +1,33 @@
-## Nullifu
+<h1 align="center">NULLIFU</h1>
 
-Developer who specialises in building discord bots using both JavaScript and Typescript. I also have experience with scripting in Roblox.
+<p align="center">
+  <samp>DISCORD BOTS / ROBLOX / CODE</samp>
+</p>
 
-**🛠️ Technologies:**
+<p align="center">
+  dev @ jjk.gg
+</p>
 
-* Lua
-* Python
-* TypeScript
-* JavaScript
-* Discord.js
-* Node.js
-* Docker
+<p align="center">
+  <a href="https://itrbrina.com">website</a>
+  ·
+  <a href="https://github.com/Nullifu/JJK-Discord-Bot">jjk bot</a>
+</p>
+
+---
+
+<h3 align="center">stack</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,discordjs,lua,py,docker&theme=dark"
+    alt="TypeScript, JavaScript, Node.js, Discord.js, Lua, Python, Docker"
+  />
+</p>
+
+---
+
+<p align="center">
+  <b>currently building</b><br />
+  JJK Bot
+</p>
