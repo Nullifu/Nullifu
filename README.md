@@ -1,3 +1,4 @@
+<img src="https://itrbrina.com/banner.png" alt="Nullifu banner" width="100%" />
 <h1 align="center">NULLIFU</h1>
 
 <p align="center">
